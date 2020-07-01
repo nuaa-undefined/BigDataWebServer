@@ -37,7 +37,7 @@
         <!--lombok插件-->
         <lombok.version>1.16.20</lombok.version>
         <!--mysql 连接驱动-->
-        <jdbc.version>5.1.40</jdbc.version>
+        <jdbc.version>8.0.16</jdbc.version>
         <!--hadoop 库-->
         <hadoop.version>2.7.3</hadoop.version>
         <!--hive-->
